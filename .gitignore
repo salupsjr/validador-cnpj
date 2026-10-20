@@ -1,0 +1,12 @@
+# Ignorar pastas de ambientes virtuais
+.venv/
+venv/
+env/
+ENV/
+
+# Ignorar arquivos temporários e caches do Python
+__pycache__/
+*.pyc
+
+# Ignorar os arquivos Excel gerados pelos testes locais 
+*.xlsx
